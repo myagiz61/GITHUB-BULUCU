@@ -4,4 +4,4 @@
 
 <p>Html,BootStrap ve JavaScript Kullanılarak Yapıldı </p>
 
-![](gits.gif)
+![](gitss.gif)
